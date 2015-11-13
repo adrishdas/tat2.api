@@ -1,2 +1,2 @@
 # tat2.api
-API for Tat2
+AWS API for Tat2
